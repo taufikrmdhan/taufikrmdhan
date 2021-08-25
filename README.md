@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ # Halo semua! 
+
+Perkenalkan nama saya **Taufik Ramadhan**.\
+
+Saya seorang mahasiswa di Universitas Amikom Yogyakarta
+Saya sekarang sedang berada di semester 5 dan sedang melanjutkan pendidikan di Dicoding melalui program SIB
+
