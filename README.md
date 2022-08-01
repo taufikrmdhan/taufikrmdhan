@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Perkenalkan nama saya **Taufik Ramadhan**
 
 Saya seorang mahasiswa di Universitas Amikom Yogyakarta.\
-Saya sekarang sedang berada di semester 5 dan sedang melanjutkan pendidikan di Dicoding melalui program SIB
+Saya sekarang sedang mengembangkan kemampuan IT saya dengan bergabung di Pijarcamp
 
 <p align="left">
 <a href="https://github.com/taufikrmdhan">
